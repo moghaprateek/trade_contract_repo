@@ -2,7 +2,7 @@
 
 Code Functionality & Working :
 
-DIR structure :
+DIR STRUCTURE :
 
 com.trading.Contract.java :  Hold all the contract details like unique id & descriptions
 
@@ -12,12 +12,15 @@ com.trading.utility.TradeUtility.java :  Contails all the logic to generate cont
 
 
 
-Working :
+WORKING :
+
 Taking user input to generate both contract and trade unique object.
+
 As per my assumption , setting & mapping the every contract to trade once. 
+
 Print All Trade With Assigned Contracts
 
 
-Screenshot :
+SCREENSHOT :
 
 ![image](https://user-images.githubusercontent.com/11006883/170891295-d577d036-62af-433c-8bdb-19b497a4b5c9.png)
