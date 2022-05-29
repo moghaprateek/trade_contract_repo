@@ -17,6 +17,15 @@ public class TradingAssign {
 
 	/**
 	 * @param args
+	 * 
+	 *             As per my assumption Taking user input to generate both contract
+	 *             and trade unique object.
+	 * 
+	 *             Setting & Mapping the every contract to trade once.
+	 * 
+	 * 
+	 *             Print All Trade With Assigned Contracts
+	 * 
 	 */
 	public static void main(String[] args) {
 		try {
