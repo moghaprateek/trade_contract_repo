@@ -3,9 +3,14 @@
 Code Functionality & Working :
 
 DIR structure :
-        com.trading.Contract.java :  Hold all the contract details like unique id & descriptions
-        com.trading.trade.Trade.java :  Hold all the trade details like unique id , price (in pound) , SLA & Contract.
-        com.trading.utility.TradeUtility.java :  Contails all the logic to generate contract , trade and assigned contract to trade.    
+
+com.trading.Contract.java :  Hold all the contract details like unique id & descriptions
+
+com.trading.trade.Trade.java :  Hold all the trade details like unique id , price (in pound) , SLA & Contract.
+
+com.trading.utility.TradeUtility.java :  Contails all the logic to generate contract , trade and assigned contract to trade.    
+
+
 
 Working :
 Taking user input to generate both contract and trade unique object.
